@@ -98,7 +98,7 @@ The To-Do List GUI will open automatically.
 4. Click **Mark as Completed** to complete it.
 5. Click **Delete Task** to remove it.
 
-## 📸 Application Preview
+## Application Preview
 
 _Add a screenshot of your application here._
 
