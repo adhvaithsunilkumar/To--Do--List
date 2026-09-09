@@ -1,4 +1,4 @@
-# 📝 To-Do List / Task Manager
+# To-Do List / Task Manager
 
 **Adhvaith Sunilkumar**
 
@@ -6,22 +6,22 @@ A simple and user-friendly **To-Do List / Task Manager** developed using **Pytho
 
 The application helps users manage their daily tasks by allowing them to add, view, complete, and delete tasks through a graphical interface.
 
-## ✨ Features
+## Features
 
-- ➕ **Add a Task** – Add new tasks to the list.
-- 👀 **View Tasks** – Display all added tasks.
-- ✅ **Mark as Completed** – Change a task's status from Pending to Completed.
-- 🗑️ **Delete a Task** – Remove a selected task from the list.
-- 🖥️ **Simple GUI** – Easy-to-use graphical interface using Tkinter.
-- ⚠️ **Input Validation** – Prevents adding empty tasks and alerts the user when no task is selected.
+- **Add a Task** – Add new tasks to the list.
+- **View Tasks** – Display all added tasks.
+- **Mark as Completed** – Change a task's status from Pending to Completed.
+- **Delete a Task** – Remove a selected task from the list.
+- **Simple GUI** – Easy-to-use graphical interface using Tkinter.
+- **Input Validation** – Prevents adding empty tasks and alerts the user when no task is selected.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python 3**
 - **Tkinter**
 - **Object-Oriented Programming (OOP)**
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 To-Do-List/
@@ -30,7 +30,7 @@ To-Do-List/
 └── README.md
 ```
 
-## 🧱 OOP Structure
+## OOP Structure
 
 The project is divided into three main classes:
 
@@ -58,7 +58,7 @@ Responsible for the graphical user interface.
 - Displays the task list
 - Handles buttons and user interaction
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Install Python
 
@@ -90,7 +90,7 @@ python todo.py
 
 The To-Do List GUI will open automatically.
 
-## 🎯 How to Use
+## How to Use
 
 1. Enter a task in the text box.
 2. Click **Add Task**.
@@ -120,7 +120,7 @@ _Add a screenshot of your application here._
 +---------------------------------------+
 ```
 
-## 🎓 Project Objective
+## Project Objective
 
 The main objective of this project is to demonstrate the practical use of **Object-Oriented Programming in Python** while developing a simple graphical application.
 
@@ -134,19 +134,19 @@ It provides hands-on experience with:
 - Tkinter GUI development
 - Basic input validation
 
-## 🔮 Future Improvements
+## Future Improvements
 
 Possible improvements include:
 
-- 💾 Save tasks permanently using a file or database
-- 📅 Add due dates
-- 🔔 Add task reminders
-- 🔍 Add task search and filtering
-- ✏️ Add an option to edit tasks
-- 🌙 Add dark mode
-- 📊 Add task statistics
+- Save tasks permanently using a file or database
+- Add due dates
+- Add task reminders
+- Add task search and filtering
+- Add an option to edit tasks
+- Add dark mode
+- Add task statistics
 
-## 👨‍💻 Author
+## Author
 
 **Adhvaith Sunilkumar**
 
